@@ -5,17 +5,22 @@ layout: default
 <div class="home">
   <div class="page-content wrapper">
     {% for post in site.posts %}
-      <a href="{{ post.url }}"
+      <div href="{{ post.url }}"
         class="post cover-image"
-        style="background-image: url({{post.image}})">
+        style="background-image: url({{post.image}}); background-position-y: {{ post.background-y-offset }}">
         <div class="header">
           <h1>{{ post.title }}</h1>
           <h2>
             {{ post.date | date: '%B %e at %H:%M%P'}}
           </h2>
           <h3 class="location">{{ post.location | normalize_whitespace }}</h3>
+
+          <a href="{{ post.url }}"
+            class="read-more">
+            Read more
+          </a>
         </div>
-      </a>
+      </div>
     {% endfor %}
   </div>
 </div>

@@ -4,7 +4,8 @@ type: action
 date: 2017-02-16 19:00:00 -09:00
 title: Welcoming Resolution
 location: The Assembly Chambers
-image: ''
+image: '/actions/public/assembly-chamber-bw.JPG'
+background-y-offset: '-350px'
 ---
 
 We submitted the following letter to the assembly.
