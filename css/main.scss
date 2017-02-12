@@ -25,10 +25,12 @@ $background-color: lighten($off-white, 15%);
 
 $brand-color:      $blue-color;
 $header-color:     $blue-color;
-$header-text-color: $off-white;
+$header-text-color: lighten($off-white, 15%);
+$post-meta:        $blue-color;
 
-$on-palm:          600px;
-$on-laptop:        800px;
+$palm:             600px;
+$laptop:           1024px;
+$desktop:          1224px;
 
 $site-width:       1024px;
 
@@ -53,5 +55,6 @@ $site-width:       1024px;
         "footer",
         "base",
         "layout",
-        "details",
+        "index",
+        "post",
         "mc_overrides";

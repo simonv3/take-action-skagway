@@ -85,8 +85,9 @@ li {
 /**
  * Headings
  */
+
 h1, h2, h3, h4, h5, h6 {
-    font-weight: 300;
+    font-weight: 900;
 }
 
 
@@ -106,7 +107,6 @@ a {
 
     &:hover {
         color: $text-color;
-        background-color: $grey-color;
     }
 }
 
@@ -162,15 +162,15 @@ pre {
  * Wrapper
  */
 .wrapper {
-    max-width: -webkit-calc(#{$site-width} - (#{$spacing-unit} * 2));
-    max-width:         calc(#{$site-width} - (#{$spacing-unit} * 2));
+    max-width: $site-width;
+    max-width: $site-width;
     margin-right: auto;
     margin-left: auto;
     padding-right: $spacing-unit;
     padding-left: $spacing-unit;
     @extend %clearfix;
 
-    @include media-query($on-laptop) {
+    @include media-query($laptop) {
         max-width: -webkit-calc($site-width - (#{$spacing-unit}));
         max-width:         calc($site-width - (#{$spacing-unit}));
         padding-right: $spacing-unit / 2;
