@@ -7,7 +7,7 @@ pages:
   #
   # Names of the fields the form is allowed to submit. If a field that is
   # not here is part of the request, an error will be thrown.
-  allowedFields: ["title"]
+  allowedFields: ["content"]
 
   # (*) REQUIRED WHEN USING NOTIFICATIONS
   #
@@ -25,7 +25,7 @@ pages:
   # (*) REQUIRED
   #
   # Destination path (filename) for the data files. Accepts placeholders.
-  filename: "{fields.title}"
+  filename: "{@id}"
 
   # The format of the generated data files. Accepted values are "json", "yaml"
   # or "frontmatter"
@@ -47,7 +47,7 @@ pages:
   moderation: true
 
   # Name of the site. Used in notification emails.
-  name: "opensourcedesign.net"
+  name: "Take Action Skagway"
 
   # Notification settings. When enabled, users can choose to receive notifications
   # via email when someone adds a reply or a new comment. This requires an account
@@ -77,5 +77,5 @@ pages:
 
   # List of transformations to apply to any of the fields supplied. Keys are
   # the name of the field and values are possible transformation types.
-  transforms:
-    description: "frontmatterContent"
+  # transforms:
+  #   description: "frontmatterContent"
