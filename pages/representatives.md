@@ -6,6 +6,9 @@ title: "Our Representatives"
 Getting in touch with our representatives is pretty easy.
 You should never hesitate to do so.
 
+We recommend putting their phone numbers in your contact list.
+That way calling them becomes as easy as picking up the phone.
+
 If you ever find any of this information to be out of date, or want to add anything, contact us: [hi@take-action-alaska.org](mailto:hi@take-action-alaska.org)
 
 ## Why you should call
