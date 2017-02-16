@@ -14,3 +14,7 @@ markdown: kramdown
 future: true
 
 permalink: pretty
+
+collections:
+  representatives:
+    output: true
