@@ -72,6 +72,10 @@ ANC: (907) 271 5978<br/>
 
 * **Muslim Ban** Opposed the implementation of the muslim ban, though supports it in general "This temporary pause allows our nation to review its vetting process and begin addressing some of the many national security holes identified by those in our intelligence and counter-terrorism community."
 
+#### Bills
+
+* Introduced [HR-232](https://www.congress.gov/bill/115th-congress/house-bill/232?q=%7B%22search%22%3A%5B%22hr232%22%5D%7D&r=1) which would give parts of the Tongas National Forest to the state of Alaska to manage.
+
 ### AK Rep Sam Kito III
 
 State Capitol Room 403<br/>
@@ -79,7 +83,12 @@ Juneau AK, 99801<br/>
 (907) 465 4766<br/>
 
 #### Statements
+
 * Have anything Representative Kito said you think we should add? E-mail us: [hi@take-action-skagway.org](mailto:hi@take-action-skagway.org)
+
+#### Voting
+
+* Voted for [HJR5](http://www.akleg.gov/basis/Bill/Detail/30?Root=HJR%20%205) - which petitions the U.S. congress to open the ANWR for drilling. While this is pretty standard in the past, it shouldn't be. Juneau's other representative Justin Parish voted a nay on the bill.
 
 ### AK Sen Dennis Egan
 

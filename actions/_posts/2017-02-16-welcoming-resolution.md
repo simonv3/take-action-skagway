@@ -30,40 +30,7 @@ The city of Skagway hosts over a million visitors every year and in a few short 
 
 Sincerely,
 
-
- * Cassie Anderson
- * Raniyah Bakr
- * Candace Cahill
- * Trisha Callies
- * Lynne Cameron
- * Sherry Corrington
- * Helene M. Crouch
- * Jesse Dominick
- * Adriane Felt
- * Susan Fredricks
- * Roger W. Griffin
- * Rebecca Hylton
- * Jeremy Jansen
- * Sara Kinjo-Hischer
- * Alyssa Koziol
- * Liz Lavoie
- * Richelle Lyttge
- * Sara McCabe
- * Annie Matsov
- * Hana Schindler Oberpfalzerová
- * Lisa Parker
- * Deborah Potter
- * Andrew Reimer
- * Lillian Samson
- * Bruce Schindler
- * Robin Solfisburg
- * Michaella Thomas
- * Ray Tsang
- * Elizabeth Jeanne Tyson
- * Simon Vansintjan
- * Emily Willis
- * Jan Wrentmore
-
+> For an up-to-date list of signatures on the letter, see the [Google doc](https://docs.google.com/document/d/1BR1SM4p3krHb1DhgNtzF_PNxTZfLLZrI8ATKfmelCQY/edit). There were 50 signatures last time we checked!
 
 
 

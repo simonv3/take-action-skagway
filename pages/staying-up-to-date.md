@@ -5,6 +5,12 @@ title: "Staying Up To Date"
 
 Feel like you need to keep up on things that are happening across the world, or want to find ways to take action?
 
+# Statewide
+
+If you're willing to look into bills, the [AK legislature site](http://www.akleg.gov/basis/Bill/ActionsByDate/30) provides a breakdown of what is being talked about.
+
+# Nationwide
+
 ## [WTF Just Happened](https://whatthefuckjusthappenedtoday.com/)
 
 > Warning: this website has a swear word!

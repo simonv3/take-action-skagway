@@ -161,6 +161,11 @@ strong {
     font-weight: bold;
 }
 
+hr {
+    margin: 2rem 0px;
+    border: 0;
+    border-bottom: 1px solid $grey-color;
+}
 
 /**
  * Wrapper

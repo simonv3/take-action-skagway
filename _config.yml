@@ -12,3 +12,5 @@ github_username:
 markdown: kramdown
 
 future: true
+
+permalink: pretty
