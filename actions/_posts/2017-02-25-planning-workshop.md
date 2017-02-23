@@ -4,8 +4,10 @@ type: action
 date: 2017-02-25 10:00:00 -0900
 title: What's Next Planning Workshop
 location: "The Skagway school's \n \t multipurpose room"
-image: ''
+image: '/actions/public/skagway-broadway.jpg'
 ---
-On Saturday the 25th at 10:00am we'll meet in the school's multipurpose room to discuss what we want to achieve next as a community. Whether locally, state-wide, or nationwide - we want everyone at the table to add their voice to this conversation. 
+Now is the time to take action locally, state-wide, and nationally on the issues **you** find important.
 
-If you have something you're passionate about and want to take action on, this will be an opportunity to find like-minded people.
+Join us for a group process to find like-minded people and help decide what our community wants to focus on next.
+
+**Everyone and all issues are welcome** and childcare will be provided.
