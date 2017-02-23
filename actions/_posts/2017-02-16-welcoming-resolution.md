@@ -1,7 +1,7 @@
 ---
 layout: post
 type: action
-date: 2017-02-16 19:00:00 -09:00
+date: 2017-02-16 19:00:00 -0900
 title: Welcoming Resolution
 location: The Assembly Chambers
 image: '/actions/public/assembly-chamber-bw.JPG'

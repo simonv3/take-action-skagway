@@ -1,7 +1,7 @@
 ---
 layout: post
 type: action
-date: 2017-02-25 10:00:00 -09:00
+date: 2017-02-25 10:00:00 -0900
 title: What's Next Planning Workshop
 location: "The Skagway school's \n \t multipurpose room"
 image: ''
