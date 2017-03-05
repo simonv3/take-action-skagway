@@ -4,7 +4,7 @@ type: action
 date: 2017-01-21 10:00:00 -0900
 title: Women's March on Skagway
 location: "Multipurpose Room\n\n Skagway Public School"
-image: '/actions/public/womensmarch2-bw.jpg'
+image: '/actions/public/womensmarch2.jpg'
 background-y-offset: '0'
 ---
 

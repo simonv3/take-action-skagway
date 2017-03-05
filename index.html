@@ -4,21 +4,35 @@ layout: default
 
 <div class="home">
   <div class="page-content wrapper">
-    {% for post in site.posts %}
-      <div href="{{ post.url }}"
-        class="post cover-image"
-        style="background-image: url({{post.image}}); background-position-y: {{ post.background-y-offset }}">
-        <div class="header">
-          <h1>{{ post.title }}</h1>
-          <h2>
-            {{ post.date | date: '%B %e at %H:%M%P'}}
-          </h2>
-          <h3 class="location">{{ post.location | normalize_whitespace }}</h3>
 
-          <a href="{{ post.url }}"
-            class="read-more">
-            Read more
-          </a>
+    <div class="newsletter-sign-up">
+      <h2>Want us to tell you when we organize something?</h2>
+      <a href="http://take-action-skagway.us15.list-manage.com/subscribe?u=52b6c79a46b5a0802925e224e&id=4ffe80163a"
+        class="read-more">
+        Sign up to the newsletter
+      </a>
+    </div>
+    {% assign curDate = site.time | date: '%s' %}
+    {% for post in site.posts %}
+      {% assign postStartDate = post.date | date: '%s' %}
+      <div class="post-wrapper">
+        <div class="cover-image {% if postStartDate < curDate %}past-event{% endif %}"
+          style="background-image: url({{post.image}});
+            background-position-y: {{ post.background-y-offset }}">
+        </div>
+        <div class="post">
+          <div class="header">
+            <h1>{{ post.title }}</h1>
+            <h2>
+              {{ post.date | date: '%B %e at %H:%M%P'}}
+            </h2>
+            <h3 class="location">{{ post.location | normalize_whitespace }}</h3>
+
+            <a href="{{ post.url }}"
+              class="read-more">
+              Read more
+            </a>
+          </div>
         </div>
       </div>
     {% endfor %}
