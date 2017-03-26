@@ -9,6 +9,10 @@ Feel like you need to keep up on things that are happening across the world, or 
 
 If you're willing to look into bills, the [AK legislature site](http://www.akleg.gov/basis/Bill/ActionsByDate/30) provides a breakdown of what is being talked about.
 
+## [49moons](https://www.fortyninemoons.org/)
+
+An Anchorage-based activist who's making it their job to be and stay informed on matters that are important to the state and how you can act locally. Join their mailing list for regular updates. 
+
 # Nationwide
 
 ## [WTF Just Happened](https://whatthefuckjusthappenedtoday.com/)
