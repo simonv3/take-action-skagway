@@ -7,7 +7,11 @@ Feel like you need to keep up on things that are happening across the world, or 
 
 # Statewide
 
-If you're willing to look into bills, the [AK legislature site](http://www.akleg.gov/basis/Bill/ActionsByDate/30) provides a breakdown of what is being talked about.
+If you're willing to look into bills, the [AK legislature site](http://www.akleg.gov/basis/Bill/ActionsByDate/30) provides a breakdown of what is being talked about in legislative session.
+
+## [The Agenda](http://tinyletter.com/HerzADN)
+
+The Agenda is a weekly breakdown of what Nat Herz (who has skiid the buckwheat 50km at least twice that I know of) and ADN have been reporting for the legislative session. It's a good break down of what happened in the past week and what to look forward to.
 
 ## [49moons](https://www.fortyninemoons.org/)
 
