@@ -3,7 +3,7 @@ layout: post
 type: action
 date: 2017-03-11 12:30:00 -0900
 title: People Power
-location: TBD (probably the Library)
+location: Library Meeting Room
 image: '/actions/public/aclu-square.jpg'
 background-y-offset: '-350px'
 ---
