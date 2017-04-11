@@ -1,7 +1,7 @@
 ---
 layout: post
 type: action
-date: 2017-04-22 13:30:00 -0900
+date: 2017-04-22 13:30:00 -0800
 title: March For Science
 location: Skagway Elks Lodge 431
 image: '/actions/public/science-march.png'
